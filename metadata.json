@@ -1,0 +1,6 @@
+{
+  "name": "IT Helpdesk Portal",
+  "description": "A modern IT support ticketing portal to submit, manage, track, and resolve IT issues across categories and priorities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
